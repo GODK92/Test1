@@ -1,0 +1,21 @@
+[theme]
+font = "'Noto Sans KR', sans-serif:https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap"
+baseRadius = "medium"
+showWidgetBorder = true
+
+[theme.light]
+primaryColor = "#2F9E6E"
+backgroundColor = "#FAFAF7"
+secondaryBackgroundColor = "#F0F1EC"
+textColor = "#1F2A24"
+borderColor = "#E2E4DD"
+
+[theme.dark]
+primaryColor = "#4CC08A"
+backgroundColor = "#131916"
+secondaryBackgroundColor = "#1E2622"
+textColor = "#E6ECE8"
+borderColor = "#2F3A34"
+
+[client]
+toolbarMode = "minimal"
